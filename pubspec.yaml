@@ -37,6 +37,7 @@ dependencies:
   html: ^0.15.0
   http: ^0.13.4
   uuid: ^3.0.5
+  rxdart: ^0.27.2
 
 dev_dependencies:
   flutter_test:
